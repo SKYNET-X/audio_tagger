@@ -1,0 +1,27 @@
+{
+    "audio_settings": {
+        "sample_rate": 16000,
+        "channels": 1,
+        "audio_format": "WAV",
+        "bit_depth": 16
+    },
+    "ui_settings": {
+        "window_width": 900,
+        "window_height": 700,
+        "font_family": "微软雅黑",
+        "text_font_size": 16,
+        "ui_font_size": 12,
+        "language": "en_US"
+    },
+    "recording_settings": {
+        "auto_save": true,
+        "confirm_next": false,
+        "show_waveform": false,
+        "enable_shortcuts": true
+    },
+    "file_settings": {
+        "output_directory": "./recordings",
+        "backup_directory": "./backup",
+        "create_directories": true
+    }
+}
